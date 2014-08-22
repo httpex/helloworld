@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-Hello World ewdjs project test.
+Hello World ewdjs project test.  Adding new files.
